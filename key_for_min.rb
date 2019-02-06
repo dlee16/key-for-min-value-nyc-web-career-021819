@@ -12,3 +12,4 @@ name_hash.each do |key, value|
   end
 lowest_key
 end 
+
